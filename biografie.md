@@ -1,4 +1,4 @@
-Biografie: Shiro-T-Poison – Die stille Legende
+<h1>Biografie</h1> Shiro-T-Poison – Die stille Legende
 
 Geburtsname: Kevin Müller
 
