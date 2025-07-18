@@ -1,6 +1,6 @@
 <h1>Biografie</h1> Shiro-T-Poison – Die stille Legende
 
-Geburtsname: Kevin Müller
+Geburtsname: Kevin Klein
 
 Straßenname: Shiro-T-Poison
 
